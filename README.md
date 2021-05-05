@@ -1,25 +1,5 @@
 # detecting_click_in_jQuery
 
-<script type="text/javascript">
-  
-  document.getElementById("mybutton").onclick = function () {
-  
-  allert ("Button clicked!");
-  
-}
+![1](https://user-images.githubusercontent.com/81953271/117149699-bc9da300-adb7-11eb-9773-ac0c49c7f03f.png)
 
-</script>
-
-The following is the same in jQuery:
-
-<script type="text/javascript">
-            
-            $("div").click(function() { //("div") or ("#circle") or(".square") --> depends with what we want to interact.
-                
-                alert("a div was clicked!");
-                
-            });
-            
-
-</script>
 
